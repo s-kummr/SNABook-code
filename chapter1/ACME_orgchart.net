@@ -1,0 +1,21 @@
+*vertices 10
+1 Conrad 0.0 0.0 ellipse
+2 Mary 0.0 0.0 ellipse
+3 Cindy 0.0 0.0 ellipse
+4 Alice 0.0 0.0 ellipse
+5 Brad 0.0 0.0 ellipse
+6 Angie 0.0 0.0 ellipse
+7 Jim 0.0 0.0 ellipse
+8 Samuel 0.0 0.0 ellipse
+9 Dave 0.0 0.0 ellipse
+10 Frida 0.0 0.0 ellipse
+*edges
+1 2 1.0
+1 3 1.0
+1 4 1.0
+3 8 1.0
+3 9 1.0
+3 10 1.0
+4 5 1.0
+4 6 1.0
+4 7 1.0
